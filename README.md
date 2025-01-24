@@ -2,6 +2,6 @@
 - 👀 I’m interested in Linux, Python, Android
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Linux
-- 📫 How to reach me email:fpro8397@gmail.com
+- 📫 How to reach me email: fpro8397@gmail.com
 - 😄 Pronouns: Fenix
 - ⚡ Fun fact: I'm trying to make my own Linux distro LightOs
